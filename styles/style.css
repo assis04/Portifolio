@@ -4,7 +4,7 @@
     --cor-primaria: #A67B5B;
     --cor-secundaria:#FED8B1 ;
     --cor-terciaria: #ECB176;
-    --cor-hover: #ECB176;
+    --cor-hover: #c59668;
 
     --font-primearia: 'Krona One', sans-serif;
     --font-secundaria: 'Montserrat', sans-serif;
@@ -71,7 +71,7 @@ body{
 .apresentacao__links__subtitulo{
     font-family: var(--font-primearia);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 .apresentacao__links__link{
     /* background-color: #22D4FD; */
@@ -82,7 +82,7 @@ body{
     width: 378px;
     text-align: center;
     border-radius: 8px;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
@@ -92,6 +92,7 @@ body{
 
 .apresentacao__links__link:hover{
     background-color: var(--cor-hover);
+    font-size: 1.68rem;
 }
 
 .trabalhos{
@@ -125,7 +126,7 @@ body{
 
 .portifolio__text{
     font-family: var(--font-primearia);
-    font-size: 1em;
+    font-size: 1rem;
     font-weight: 200;
 }
 
@@ -140,7 +141,7 @@ body{
     padding: 24px;
     text-align: center;
     font-family: var(--font-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
 
